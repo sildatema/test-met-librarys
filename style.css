@@ -1,0 +1,17 @@
+.section-containter {
+    display: flex;
+}
+
+.links a {
+    Color: black;
+    text-decoration: none;
+}
+
+.links a:hover {
+    color: white;
+
+}
+
+.mainpicture {
+    max-width: 200px;
+}
